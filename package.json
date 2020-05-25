@@ -4,7 +4,7 @@
   "description": "A simple project using the better way to do an authentication in REST API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [
     "node",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/danprates/auth-pattern-rest-api/issues"
   },
-  "homepage": "https://github.com/danprates/auth-pattern-rest-api#readme"
+  "homepage": "https://github.com/danprates/auth-pattern-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
