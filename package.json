@@ -1,0 +1,25 @@
+{
+  "name": "auth-pattern-rest-api",
+  "version": "1.0.0",
+  "description": "A simple project using the better way to do an authentication in REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javascript",
+    "authentication"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danprates/auth-pattern-rest-api.git"
+  },
+  "author": "Daniel Prates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danprates/auth-pattern-rest-api/issues"
+  },
+  "homepage": "https://github.com/danprates/auth-pattern-rest-api#readme"
+}
